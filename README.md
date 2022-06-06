@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @AMANDHGAKAR20BCR7078
-- 👀 I’m interested in ...
+- 👋 Hi, I’m Aman Dhakar
+- 👀 I’m interested in Android Development 
 - 🌱 I’m currently learning Android App Development, Website development
 - 💞️ I’m looking to collaborate on a Android App
-- 📫 How to reach me ...
+- 📫 How to reach me amandhaker191@gmail.com
 
 <!---
 AMANDHGAKAR20BCR7078/AMANDHGAKAR20BCR7078 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
