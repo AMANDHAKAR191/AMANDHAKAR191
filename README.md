@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Aman Dakar and I'm a Software developer, from Bhilwara, Rajasthan</p>
+<p align="left">My name is Aman Dhakar and I'm a Software developer, from Bhilwara, Rajasthan</p>
 
 ###
 
